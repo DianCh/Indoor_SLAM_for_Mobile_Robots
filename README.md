@@ -20,6 +20,6 @@ For you to run the tests, python 3 with normal scientific packages (numpy, matpl
 ## Sample Results
 Here is the resulted map and trajectory for one of the dataset:
 
-<img src="https://github.com/DianCh/Learning_in_Robotics/blob/master/4_Indoor_SLAM/results/train_0.png" width="600">
+<img src="https://github.com/DianCh/Indoor_SLAM_for_Mobile_Robots/blob/master/results/train_0.png" width="600">
 
 A detailed report for this project can also be found [here](https://github.com/DianCh/Indoor_SLAM_for_Mobile_Robots/blob/master/results/report.pdf).
